@@ -1,0 +1,6 @@
+[book]
+authors = ["julei"]
+language = "en"
+multilingual = false
+src = "src"
+title = "藏经阁"
