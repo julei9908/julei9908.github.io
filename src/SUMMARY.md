@@ -1,7 +1,5 @@
 # Summary
 
-- [Core Java](core_java/README.md)
-    - [基础语法](core_java/基础语法.md)
 - [幂等性](./幂等性.md)
 - [base64编解码](./base64编解码.md)
 - [IntelliJ IDEA](./IntelliJIDEA.md)
@@ -32,3 +30,6 @@
 - [svn服务搭建](./svn服务搭建.md)
 - [tomcat安装](./tomcat安装.md)
 - [weblogic安装](./weblogic安装.md)
+- [maven安装jar包](./maven安装jar包.md)
+- [typecho搭建](./typecho搭建.md)
+- [frp客户端自启](./frp客户端自启.md)
